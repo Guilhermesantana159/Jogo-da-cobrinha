@@ -27,13 +27,13 @@ h1{
     bottom: 0pt;
     box-shadow: 1px 1px 1px 1px black;
 }
-#direito{
+.direito{
     font-family: 'Sigmar One', cursive;
     font-size: 20pt;
     color: rgb(56, 56, 56);
     padding-left: 5pt;
 }
-#esquerdo{
+.esquerdo{
     font-family: 'Sigmar One', cursive;
     font-size: 20pt;
     font-weight: bolder;
@@ -96,7 +96,7 @@ h2{
 }
 #jogo{
     background-color: black;
-    width: 100%;
-    height: 100%;
+    width: 735pt;
+    height: 325pt;
     border-radius: 15pt;
 }
